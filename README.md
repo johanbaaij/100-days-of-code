@@ -5,6 +5,25 @@
 
 ## Log
 
+### Day 2: April 9, 2020 - Thursday
+
+#### Progress
+
+- Spend a bit more time configuring and researching automated semantic releases.
+- Added a new feature/check to [bpm-counter](https://github.com/johanbaaij/bpm-counter). Verified the auto generated changelog works.
+- Improved [bpm-counter](https://github.com/johanbaaij/bpm-counter) docs.
+
+#### Thoughts
+
+- Would like to generate/include some API docs for [bpm-counter](https://github.com/johanbaaij/bpm-counter) but not sure what the best practises are here. If possible I prefer to avoid redundant/noisy comments for every class and method. Some packages to investigate:
+  - <https://typedoc.org/>
+  - <https://api-extractor.com/>
+
+#### Links
+
+- <https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882>
+- <https://moderatemisbehaviour.github.io/clean-code-smells-and-heuristics/>
+
 ### Day 1: April 8, 2020 - Wednesday
 
 #### Progress
