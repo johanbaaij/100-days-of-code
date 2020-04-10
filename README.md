@@ -52,7 +52,7 @@ Minimal coding this Good Friday.
   - Forces you to treat `master` as if it may only contain deployable code
   - Takes the guesswork out of versioning
   - Sets up your repo for easy contributing and use in the real world
-- It never ceases to amaze me how many tools and infrastructure is available for open source software
+- It never ceases to amaze me how much tooling and infrastructure is available for open source software
 
 #### d1: Links
 
