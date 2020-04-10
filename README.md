@@ -5,6 +5,21 @@
 
 ## Log
 
+### Day 3: April 10, 2020 - Friday
+
+#### d3: Progress
+
+Minimal coding this Good Friday.
+
+- Worked on a logo and visual ideas for a new personal website.
+- Added a [bpm-counter](https://github.com/johanbaaij/bpm-counter) UMD build for usage with the `<script>` tag.
+
+![Inkscape screenshot](assets/img/d3-1.jpeg)
+
+#### d3: Links
+
+- <https://inkscape.org/>
+
 ### Day 2: April 9, 2020 - Thursday
 
 #### d2: Progress
