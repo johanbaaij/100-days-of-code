@@ -11,8 +11,8 @@
 
 Minimal coding this Good Friday.
 
-- Worked on a logo and visual ideas for a new personal website.
-- Added a [bpm-counter](https://github.com/johanbaaij/bpm-counter) UMD build for usage with the `<script>` tag.
+- Worked on a logo and visual ideas for a new personal website
+- Added a [bpm-counter](https://github.com/johanbaaij/bpm-counter) UMD build for usage with the `<script>` tag
 
 ![Inkscape screenshot](assets/img/d3-1.jpeg)
 
@@ -24,9 +24,9 @@ Minimal coding this Good Friday.
 
 #### d2: Progress
 
-- Spend a bit more time configuring and researching automated semantic releases.
-- Added a new feature/check to [bpm-counter](https://github.com/johanbaaij/bpm-counter). Verified the auto generated changelog works.
-- Improved [bpm-counter](https://github.com/johanbaaij/bpm-counter) docs.
+- Spend a bit more time configuring and researching automated semantic releases
+- Added a new feature/check to [bpm-counter](https://github.com/johanbaaij/bpm-counter). Verified the auto generated changelog works
+- Improved [bpm-counter](https://github.com/johanbaaij/bpm-counter) docs
 
 #### d2: Thoughts
 
